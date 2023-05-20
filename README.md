@@ -8,7 +8,7 @@ The repository is organized into folders, each representing a specific LeetCode 
 
 ## How to Use
 
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:`git clone https://github.com/ab-etemadi/leetcode-challenges.git`
 
 2. Navigate to the specific challenge folder you're interested in.
 
@@ -39,10 +39,6 @@ Contributions to the repository are welcome! If you have an alternative solution
 5. Submit a pull request to the main repository, detailing the changes you've made.
 
 6. Your contribution will be reviewed and merged if it meets the repository's guidelines.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code, modify it, and distribute it according to the terms of the license.
 
 ## Contact
 
