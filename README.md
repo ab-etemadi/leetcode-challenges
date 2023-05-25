@@ -23,7 +23,7 @@ If you have alternative or optimized solutions for any of the challenges, I woul
 ## Contact
 
 Let's connect and discuss coding challenges, algorithms, and all things tech!
-[![Twitter](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)](https://twitter.com/ab_etemadi)
+[![Twitter](https://img.shields.io/twitter/follow/ab-etemadi?style=social)](https://twitter.com/ab_etemadi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-etemadi)
 
 Happy coding! 🚀
