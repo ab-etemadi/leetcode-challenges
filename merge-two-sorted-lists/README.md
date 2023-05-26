@@ -1,12 +1,24 @@
-# Palindrome Number
+# Merge Two Sorted Lists
 
-Given an integer x, return true if x is a palindrome , and false otherwise.
-Palindrome :An integer is a palindrome when it reads the same forward and backward. For example, 121 is a palindrome while 123 is not.
+You are given the heads of two sorted linked lists list1 and list2.
+
+Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+Return the head of the merged linked list.
 
 ## Example
 
 ```
-Input: x = 121
-Output: true
-Explanation: 121 reads as 121 from left to right and from right to left.
+Input: list1 = [1,2,4], list2 = [1,3,4]
+Output: [1,1,2,3,4,4]
+```
+
+```
+Input: list1 = [], list2 = []
+Output: []
+```
+
+```
+Input: list1 = [], list2 = [0]
+Output: [0]
 ```
