@@ -1,8 +1,5 @@
-function plusOne(digits: number[]): number[] {
-  let number = parseInt(digits.join(""));
+function plusOne(digits) {
+    let num = BigInt(digits.join(''));
 
-  return (number + 1)
-    .toString()
-    .split("")
-    .map((num) => parseInt(num));
-}
+    return String(++num).split('').map(Number);
+};
